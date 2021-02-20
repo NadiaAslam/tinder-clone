@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white; 
+}
+.header__img{
+    width:80px;
+    object-fit: contain;
+}
+.header__icon{
+align-items: center;
+padding:  1.25em;
+
+}
